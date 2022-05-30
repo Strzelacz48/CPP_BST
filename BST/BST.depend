@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653908160 source:d:\projekty\do programowania\c i c++\bst\bst\implementation.cpp
+
+1653930498 source:d:\projekty\do programowania\c i c++\bst\bst\main.cpp
+	"header.hpp"
+
+1653931617 d:\projekty\do programowania\c i c++\bst\bst\header.hpp
+	<iostream>
+	<fstream>
+	"trejt.hpp"
+
+1653929789 d:\projekty\do programowania\c i c++\bst\bst\trejt.hpp
+	<string.h>
+
