@@ -33,8 +33,8 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="header.hpp" />
-		<Unit filename="implementation.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="trejt.hpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
